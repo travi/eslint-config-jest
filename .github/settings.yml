@@ -1,0 +1,6 @@
+_extends: .github
+repository:
+  name: eslint-config-jest
+  description: shareable config for ESLint for Jest test files
+  homepage: 'https://npm.im/@travi/eslint-config-jest'
+  private: false
