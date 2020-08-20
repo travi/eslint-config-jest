@@ -40,6 +40,6 @@
     "remark-usage": "8.0.0"
   },
   "dependencies": {
-    "@form8ion/eslint-config-jest": "1.0.8"
+    "@form8ion/eslint-config-jest": "1.0.9"
   }
 }
